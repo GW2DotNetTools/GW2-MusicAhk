@@ -1,4 +1,4 @@
-# GW2MusicAhk - How to use
+# GW2 MusicAhk - How to use
 
 * Download and Install [Autohotkey](http://www.autohotkey.com)
 * Execute any of the .ahk files
